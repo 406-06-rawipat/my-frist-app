@@ -99,7 +99,7 @@ ans2 = st.text_input(
     value=st.session_state.ans2_val,
 )
 ans3 = st.text_input(
-    "ข้อ 3: An `I am a yellow tropical fruit. Eat me with sticky rice m_ _ _o`. 🥭",
+    "ข้อ 3: `I am a yellow tropical fruit. Eat me with sticky rice m_ _ _o`. 🥭",
     value=st.session_state.ans3_val,
 )
 ans4 = st.text_input(
